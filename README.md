@@ -13,8 +13,6 @@ You can use the website to generate badges: https://shields.io/
 
 I am a final year postgraduate student studying Data Science at the University of Adelaide, South Australia. My research interest and work lies in the field of  Aspect Based Sentiment Analysis, a fine-tuned technique of Sentiment Analysis, which is widely used to analyze product reviews by different companies. This is a fine example of how Machine Learning can be used across disciplines to create real-world solutions which I truly believe in. 
 
-<br />
-
 ### Languages and Tools:
 
 <!-- Your github readme stats
